@@ -1,6 +1,7 @@
 # Software Testing
 
 Dieser Ordner dient als allgemeine Sammlung für alles zum Thema Softwaretests.  
+
 Hier finden sich:  
 - Beispiele aus verschiedenen Projekten  
 - Übungen und kleine Testskripte  
